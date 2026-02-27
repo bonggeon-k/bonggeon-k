@@ -16,4 +16,4 @@ AI-assisted productivity
 Practical automation for knowledge work
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/여기에-본인-링크드인-ID
+LinkedIn: https://www.linkedin.com/in/bonggeonkim
