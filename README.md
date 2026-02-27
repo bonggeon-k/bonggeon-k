@@ -1,16 +1,19 @@
-## Hi there 👋
+# BG Kim
 
-<!--
-**bonggeon-k/bonggeon-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building small tools with AI assistance.
 
-Here are some ideas to get you started:
+## About
+I explore software by building small, practical tools with AI assistance.
+Currently experimenting with automation, simple scripts, and AI-assisted workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+ChatGPT · Codex CLI · Kiro CLI · Genspark
+VS Code (AI extensions)
+Python (learning)
+
+## Focus
+AI-assisted productivity
+Practical automation for knowledge work
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/여기에-본인-링크드인-ID
